@@ -1,7 +1,4 @@
-Python-WebImageScraper
+NCAAF Logo Scraper
 ======================
 
-A Python powered app that scrapes images from requested URLs and dumps them in scraper's directory.
-
-A standard call looks like this:
-	get_images('http://www.wookmark.com')
+Simple script to scrape logos of college football teams from [ESPN](http://www.espn.com/college-football/teams)
